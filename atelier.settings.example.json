@@ -1,0 +1,6 @@
+{
+  "scan_roots": [
+    "~/Documents/Code",
+    "~/Projects"
+  ]
+}

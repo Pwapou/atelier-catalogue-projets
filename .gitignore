@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+.DS_Store
+*.log
+atelier.settings.json
+descriptions.json
+github-status.json
